@@ -4,14 +4,18 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|ゆまくん|
+|Blog|[]()|
+|Twitter|[@rb_yuma](https://twitter.com/rb_yuma)|
+|Qiita|[]()|
+|SlideShare|[]()|
+|Speakerdeck|[]()|
 
 ## スキル
+- Java（研修・実務）
+- JavaScript（研修・実務）
+- Oracle（研修・実務）
+- MySQL（独学）
 
 ### 言語
 
