@@ -14,7 +14,9 @@
 - Java（研修・実務）
 - JavaScript（研修・実務）
 - Oracle（研修・実務）
-- MySQL（独学）
+- MySQL（スクール）
+- HTML（研修・実務）
+- CSS（研修）
 
 ### フレームワーク
 
