@@ -30,7 +30,7 @@
 ## やったことはないが興味があるもの
 - AWS(Udemyにて学習予定)
 - Laravel(Udemyにて学習中)
-- Ruvy On Rails(Udemyにて学習予定)
+- Ruby On Rails(Udemyにて学習予定)
 
 ## 職務経歴
 
