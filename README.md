@@ -5,11 +5,7 @@
 |key|value|
 |---|-----|
 |Name|ゆまくん|
-|Blog|[]()|
 |Twitter|[@rb_yuma](https://twitter.com/rb_yuma)|
-|Qiita|[]()|
-|SlideShare|[]()|
-|Speakerdeck|[]()|
 
 ## スキル
 
